@@ -1,0 +1,7 @@
+Commands to be used for Git.
+To the know the version of the Git use:
+git --version
+
+Inorder to set the username created on Github with Git
+git config --global user.name "username"
+git config --global user.email "emailid"
